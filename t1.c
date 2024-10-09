@@ -6,7 +6,7 @@ main()
 }
   sub()
 {
-  printf("SUBTRACTION");
+  printf("SUBTRACTION1");
 }
   mul()
 {
