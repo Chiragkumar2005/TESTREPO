@@ -4,7 +4,13 @@ main()
 {
   printf("ADDITION");
 }
-  sub();
-  mul();
+  sub()
+{
+  printf("SUBTRACTION1");
+}
+  mul()
+{
+  printf("MULTIPLICATION");
+}
   div();
 }
